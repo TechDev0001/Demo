@@ -1,0 +1,68 @@
+*{
+    margin:0px 0px;
+    padding:0px 0px;
+}
+
+.container {
+    max-width: 100%;
+    height:743px;
+   
+}
+.header{
+    margin:0px 0px ;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+.p{
+    margin:1px 593px;
+}
+.text{
+    width:38%;
+    display:flex;
+    justify-content: center;
+    /* align-items: center; */
+    height:356px;
+    margin:83px 198px;
+}
+
+.contain{
+    width:440px;
+    height:356px;
+    display:flex;
+    margin:-446px 859px;
+    border: 4px solid powderblue;
+    justify-content: center;
+    
+}
+.contain h2{
+    margin:22px 0px;
+}
+
+#login-form{
+    margin:84px -113px;
+    position:absolute;
+}
+
+.message{
+    height:154px;
+    margin:464px 197px;
+}
+.logom{
+    margin:0px 0px;
+    width:150px ;
+    display: flex;
+    align-items: center;
+    
+    height:150px;
+}
+
+.fa-comments{
+    font-size: 99px;
+    width:100px;
+    height:100px;
+    color:rgb(74, 127, 207);
+
+}
